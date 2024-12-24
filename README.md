@@ -53,4 +53,4 @@ Developed by: Nandhini M RegisterNumber: 24900996
 ![Screenshot 2024-12-24 193816](https://github.com/user-attachments/assets/dadfc41d-642b-45e1-a304-06a007211b32)
 
 **RESULTS**
-
+Thus jk flipflop using verilog and validate their functionality using theirfunction table has been verified.
